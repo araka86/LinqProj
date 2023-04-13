@@ -1,0 +1,17 @@
+
+
+1) https://github.com/dotnet/try-samples
+
+	to install: dotnet tool install -g Microsoft.dotnet-try
+	to uninstall: dotnet tool uninstall -g Microsoft.dotnet-try
+	to update: dotnet tool update -g Microsoft.dotnet-try 
+
+git clone https://github.com/dotnet/try-samples.git
+
+2) powershell dotnet --info
+
+3) SDK -  https://dotnet.microsoft.com/en-us/download/dotnet/3.1
+
+dotnet-sdk-3.1.426-win-x64
+
+4) start project: dotnet try
